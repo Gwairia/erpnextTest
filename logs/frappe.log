@@ -1,0 +1,804 @@
+[DEBUG] 2019-04-26 19:20:56,371 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:21:56,471 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:22:56,554 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:23:56,637 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:24:56,723 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:43:13,055 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:58:45,026 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 19:59:45,128 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:07:18,258 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:17:49,452 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:18:49,552 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:19:49,634 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:20:49,721 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:21:49,806 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:22:49,887 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:23:49,972 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:24:50,060 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:25:50,142 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:26:50,224 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:29:31,085 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:30:31,185 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:31:31,277 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:40:29,811 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:41:29,894 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:42:29,993 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:43:30,090 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:44:30,175 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:45:30,398 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:45:30,401 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:46:30,508 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:46:30,510 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:47:30,625 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:47:30,626 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:48:30,758 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:48:30,760 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:49:30,867 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:49:30,870 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:50:30,981 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:50:30,983 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:51:31,100 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:51:31,103 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:52:31,266 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:52:31,268 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:53:31,378 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:53:31,380 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:54:31,483 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:54:31,486 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:55:31,600 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:55:31,602 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:56:31,723 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:56:31,725 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:57:31,833 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:57:31,837 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:58:31,948 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:58:31,950 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 20:59:32,094 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 20:59:32,097 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:00:32,278 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:00:32,280 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:01:32,383 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:01:32,387 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:02:32,497 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:02:32,499 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:03:32,603 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:03:32,606 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:04:32,729 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:04:32,731 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:05:32,843 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:05:32,846 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:06:32,982 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:06:32,984 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:07:33,091 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:07:33,094 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:08:33,220 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:08:33,222 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:09:33,328 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:09:33,331 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:10:33,437 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:10:33,452 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:11:33,561 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:11:33,563 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:12:33,690 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:12:33,691 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:13:33,798 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:13:33,801 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:14:33,909 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:14:33,912 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:15:34,021 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:15:34,024 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:16:34,146 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:16:34,148 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:17:34,256 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:17:34,258 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:18:34,366 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:18:34,369 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:19:34,481 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:19:34,483 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:20:34,613 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:20:34,616 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:21:34,725 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:21:34,728 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:22:34,838 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:22:34,841 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:23:34,974 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:23:34,977 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:24:35,205 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:24:35,207 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:25:35,320 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:25:35,323 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:26:35,436 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:26:35,438 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:27:35,563 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:27:35,566 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:28:35,695 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:28:35,697 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:29:35,810 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:29:35,812 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:30:35,923 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:30:35,926 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:31:36,039 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:31:36,041 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:32:36,168 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:32:36,170 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:33:36,281 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:33:36,282 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:34:36,394 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:34:36,396 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:35:36,506 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:35:36,509 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:36:36,641 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:36:36,643 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:37:36,756 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:37:36,758 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:38:36,867 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:38:36,870 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:39:36,986 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:39:36,987 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:40:37,115 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:40:37,117 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:41:37,227 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:41:37,230 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:42:37,346 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:42:37,347 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:43:37,458 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:43:37,461 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:44:37,589 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:44:37,591 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:45:37,701 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:45:37,704 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:46:37,814 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:46:37,816 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:47:37,929 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:47:37,931 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:48:38,081 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:48:38,082 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:49:38,229 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:49:38,233 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:50:38,339 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:50:38,341 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:51:38,448 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:51:38,451 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:52:38,578 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:52:38,580 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:53:38,689 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:53:38,692 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:54:38,806 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:54:38,809 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:55:38,919 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:55:38,922 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:56:39,051 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:56:39,053 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:57:39,162 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:57:39,165 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:58:39,275 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:58:39,277 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 21:59:39,389 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 21:59:39,391 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:00:39,548 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:00:39,550 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:01:39,699 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:01:39,702 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:02:39,810 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:02:39,812 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:03:39,919 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:03:39,922 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:04:40,045 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:04:40,046 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:05:40,154 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:05:40,156 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:06:40,263 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:06:40,265 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:07:40,374 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:07:40,377 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:08:40,507 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:08:40,509 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:09:40,640 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:09:40,643 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:10:40,748 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:10:40,751 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:11:40,992 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:11:40,994 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:12:41,124 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:12:41,126 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:13:41,239 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:13:41,242 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:14:41,388 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:14:41,391 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-04-26 22:15:41,494 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-04-26 22:15:41,496 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-16 19:24:57,531 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-16 19:24:57,580 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-16 19:25:57,691 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-16 19:25:57,694 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:15:20,616 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:15:20,618 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:16:20,856 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:16:20,858 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:20:41,179 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:20:41,182 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:21:41,316 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:21:41,318 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:22:41,455 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:22:41,458 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:23:41,608 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:23:41,611 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:31:43,831 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:31:43,833 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:38:22,792 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:38:22,794 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:40:45,832 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:40:45,834 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:41:45,993 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:41:45,996 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:42:46,154 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:42:46,157 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:43:46,304 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:43:46,307 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:44:46,463 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:44:46,464 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:58:55,784 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:58:55,787 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 08:59:56,035 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 08:59:56,036 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 09:00:56,238 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 09:00:56,240 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 09:06:03,740 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 09:06:03,742 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 09:07:03,997 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 09:07:03,999 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 09:08:04,173 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 09:08:04,175 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[DEBUG] 2019-05-23 09:09:04,325 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: amira.local
+Queued events for site amira.local
+[DEBUG] 2019-05-23 09:09:04,327 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/scheduler.py:
+Site: example.local
+Access denied for site example.local
+[ERROR] 2019-05-23 09:28:26,950 | /opt/erpnext/erpnext/apps/frappe/frappe/app.py:
+Site: amira.local
+Request Error
+Traceback (most recent call last):
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/app.py", line 52, in application
+    init_request(request)
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/app.py", line 116, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/auth.py", line 42, in __init__
+    self.set_lang()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/auth.py", line 86, in set_lang
+    frappe.local.lang = guess_language()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/translate.py", line 29, in guess_language
+    lang_list = get_all_languages() or []
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/translate.py", line 85, in get_all_languages
+    return frappe.cache().get_value('languages', _get)
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/utils/redis_wrapper.py", line 79, in get_value
+    val = generator()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/translate.py", line 84, in _get
+    return frappe.db.sql_list('select name from tabLanguage')
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/database/database.py", line 230, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/database/database.py", line 122, in sql
+    self.connect()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/database/database.py", line 75, in connect
+    self._conn = self.get_connection()
+  File "/opt/erpnext/erpnext/apps/frappe/frappe/database/mariadb/database.py", line 89, in get_connection
+    local_infile = frappe.conf.local_infile)
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 325, in __init__
+    self.connect()
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 599, in connect
+    self._request_authentication()
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 861, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+OperationalError: (1045, u"Access denied for user '_1ffb76b6558902a0'@'localhost' (using password: YES)")
+[ERROR] 2019-05-23 09:28:27,047 | /opt/erpnext/erpnext/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2019-05-23 09:28:26.951553-127.0.0.1-33e

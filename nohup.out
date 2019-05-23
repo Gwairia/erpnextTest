@@ -1,0 +1,30 @@
+/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.1) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+ * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+ * Restarting with inotify reloader
+/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.1) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+ * Debugger is active!
+ * Debugger PIN: 114-910-858
+/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.1) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+ * Running on http://0.0.0.0:8001/ (Press CTRL+C to quit)
+ * Restarting with inotify reloader
+/opt/erpnext/erpnext/env/local/lib/python2.7/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.25.1) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+ * Debugger is active!
+ * Debugger PIN: 114-910-858
+41.69.162.167 - - [23/May/2019 10:58:33] "GET / HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:35] "GET /assets/css/frappe-web-b4.css HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:35] "GET /assets/frappe/js/lib/jquery/jquery.min.js HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:35] "GET /assets/js/frappe-web.min.js HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:35] "GET /assets/js/bootstrap-4-web.min.js HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:35] "GET /website_script.js HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:37] "GET /assets/frappe/css/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:38] "POST / HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:58:38] "GET /assets/frappe/images/favicon.png HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:59:19] "GET / HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 10:59:23] "POST / HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 11:01:17] "GET / HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 11:01:17] "GET /website_script.js HTTP/1.1" 200 -
+41.69.162.167 - - [23/May/2019 11:01:18] "POST / HTTP/1.1" 200 -
